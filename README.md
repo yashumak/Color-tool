@@ -68,20 +68,20 @@ A comprehensive web-based color utility tool built with Next.js and React that h
 1. Clone the repository:
 
 ```sh
-git clone <repository-url>
+git clone https://github.com/yashumak/Color-tool.git
 cd color-tool
 ```
 
 2. Install dependencies:
 
 ```sh
-pnpm install
+npm install
 ```
 
 3. Start the development server:
 
 ```sh
-pnpm dev
+npm dev
 ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
@@ -89,8 +89,8 @@ pnpm dev
 ### Building for Production
 
 ```sh
-pnpm build
-pnpm start
+npm build
+npm start
 ```
 
 ## Tech Stack
@@ -106,6 +106,3 @@ pnpm start
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
