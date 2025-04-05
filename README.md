@@ -1,4 +1,4 @@
-# Color Tool
+# ✨Color Tool
 
 A comprehensive web-based color utility tool built with Next.js and React that helps designers and developers work with colors.
 
