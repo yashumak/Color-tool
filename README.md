@@ -56,14 +56,14 @@ The website is a vibrant playground for designers and developers, turning color 
   - JSON
 - Real-world UI previews
 
-## Getting Started
+## 📜Getting Started
 
 ### Prerequisites
 
 - Node.js 18 or later
 - pnpm package manager
 
-### Installation
+### ⚙️Installation
 
 1. Clone the repository:
 
@@ -93,16 +93,11 @@ npm build
 npm start
 ```
 
-## Tech Stack
+## 📂Tech Stack
 
-- [Next.js](https://nextjs.org/) - React framework
-- [React](https://reactjs.org/) - UI library
-- [Tailwind CSS](https://tailwindcss.com/) - Styling
-- [Radix UI](https://www.radix-ui.com/) - UI components
-- [Lucide React](https://lucide.dev/) - Icons
-- [TypeScript](https://www.typescriptlang.org/) - Type safety
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
+- [Next.js] - React framework
+- [React] - UI library
+- [Tailwind CSS] - Styling
+- [Radix UI] - UI components
+- [Lucide React] - Icons
+- [TypeScript] - Type safety
