@@ -95,9 +95,34 @@ npm start
 
 ## 📂Tech Stack
 
-- [Next.js] - React framework
-- [React] - UI library
-- [Tailwind CSS] - Styling
-- [Radix UI] - UI components
-- [Lucide React] - Icons
-- [TypeScript] - Type safety
+-Next.js – React framework
+-React – UI library
+-Tailwind CSS – Styling
+-Radix UI – UI components
+-Lucide React – Icons
+-TypeScript – Type safety
+
+
+## Responsive Design
+
+This is fully responsive with breakpoints for:  
+- Mobile: < 640px  
+- Tablet: 640px - 1024px  
+- Desktop: > 1024px 
+
+## 📜 Scripts
+
+- npm run dev: Start development server  
+- npm run build: Build for production  
+- npm run start: Start production server  
+- npm run lint: Run ESLint  
+
+## 🖇️ Social Links
+
+**Yash Umak**  
+- LinkedIn: [@yash-umak](https://www.linkedin.com/in/yash-umak-5242ab320/)  
+- GitHub: [@yashumak](https://github.com/yashumak)  
+
+## Acknowledgments
+
+- Inspired by modern design tools and color theory.
