@@ -95,12 +95,12 @@ npm start
 
 ## 📂Tech Stack
 
--Next.js – React framework
--React – UI library
--Tailwind CSS – Styling
--Radix UI – UI components
--Lucide React – Icons
--TypeScript – Type safety
+-Next.js
+-React
+-Tailwind CSS 
+-Radix UI 
+-Lucide React 
+-TypeScript 
 
 
 ## Responsive Design
