@@ -60,7 +60,7 @@ The website is a vibrant playground for designers and developers, turning color 
 
 ### Prerequisites
 
-- Node.js 18 or later
+- Node.js 
 - pnpm package manager
 
 ### ⚙️Installation
@@ -95,12 +95,12 @@ npm start
 
 ## 📂Tech Stack
 
--Next.js
--React
--Tailwind CSS 
--Radix UI 
--Lucide React 
--TypeScript 
+- Next.js
+- React
+- Tailwind CSS 
+- Radix UI 
+- Lucide React 
+- TypeScript 
 
 
 ## Responsive Design
