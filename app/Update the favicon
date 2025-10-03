@@ -2,11 +2,11 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Cool Tool',
+  title: 'Color Tool',
   description: 'A cool tool for doing cool things',
   generator: 'patil.yash',
   icons: {
-    icon: 'https://cdn-icons-png.flaticon.com/512/2071/2071665.png',
+    icon: '   https://cdn-icons-png.flaticon.com/512/3214/3214398.png',
   }
 }
 
